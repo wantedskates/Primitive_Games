@@ -1,2 +1,2 @@
 # Primitive Games
-I develop this games for educational purposes 
+I develop these games for educational purposes 
